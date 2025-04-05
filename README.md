@@ -136,7 +136,7 @@
 
 172.16.0.101 -> Broadcast address
 
-1 usable host
+0 usable host
 ```
 ```
 172.16.1.10/32 -> IP
